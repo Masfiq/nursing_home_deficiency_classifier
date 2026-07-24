@@ -1,0 +1,6 @@
+!data/raw/.gitkeep
+!data/cache/.gitkeep
+!output/.gitkeep
+__pycache__/
+*.pyc
+.env
